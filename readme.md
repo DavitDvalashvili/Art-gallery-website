@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile-card-component
+# Frontend Mentor - Art-gallery-website
 
 This is a solution to the [Art-gallery-website]
 
