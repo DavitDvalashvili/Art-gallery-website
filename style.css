@@ -26,13 +26,16 @@ p { font-size: 18px;
     color: #444444;
     font-family: 'Outfit', sans-serif
 }
-.mobile, .tablet,.desktop, .image-container img, footer {
+.mobile, .tablet,.desktop, 
+.image-container img, footer {
     width: 100%;
 }
-.text-wrapper, .text-container-black h2, .text-container-black p, footer p  {
+.text-wrapper, .text-container-black h2, 
+.text-container-black p, footer p  {
     color: #FFFFFF;
 }
-.text-wrapper, .text-container-black, .text-container-black, footer {
+.text-wrapper, .text-container-black, 
+.text-container-black, footer {
     background-color: #151515;
 } 
 /* styles for introduction */
